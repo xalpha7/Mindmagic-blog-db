@@ -1,5 +1,4 @@
-{
-    "blogs" : [
+
         {   
             "id" : 1,
             "title" : "Santorini, Greece",
@@ -78,5 +77,3 @@
             "img7" : "/Destination/kyoto-7.jpg",
             "img8" : "/Destination/kyoto-8.jpg"
         }
-    ]
-}
